@@ -270,12 +270,6 @@ Interview Preparation:
 
  If you've come this far and reviewed or completed all the steps, you can help me by giving this repository a star ⭐.
 
- ## Contribution Guideline
-
-You can open an issue and give your suggestions as to how I can improve this roadmap, or what I can do to improve the learning experience.
-
-You can also fork this repo and send a pull request to fix any mistakes that you have found.
-
 
 
 
