@@ -1,4 +1,3 @@
-# Data_Analyst_Roadmap
 
 # Data Analyst Full Roadmap
 
